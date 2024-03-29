@@ -1,0 +1,8 @@
+NAME=MsBot
+AVATAR=https://imgur.com/HZPQlck
+TYPE=bot
+MAIN=index.js
+RAM=100
+AUTORESTART=false
+VERSION=latest
+APT=tools
